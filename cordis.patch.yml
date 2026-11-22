@@ -1,0 +1,4 @@
+# @deepwhale-cn/dsh-tts-local 的组合层
+- insert:
+    - id: tts-local
+      name: '@deepwhale-cn/dsh-tts-local'
