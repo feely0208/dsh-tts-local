@@ -18,3 +18,11 @@ TODO —— 规则表。命中 ≠ 违规；每条带 文件:行 与出处。
 ## 已知边界
 
 TODO —— 静态检查的适用范围与不适用情形，写清楚防误用。
+
+## 安装（DSH）
+
+```bash
+dsh plugin --profile web add @deepwhale-cn/dsh-tts-local
+```
+
+也可以 `npm i @deepwhale-cn/dsh-tts-local`，或从本仓库直接 `dsh plugin install ./`。
